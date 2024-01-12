@@ -35,7 +35,7 @@ public class TC06_AddingItemToCart extends ProjectSpecifications {
 		itc.product1();
 		itc.addtoCartButton();
 		itc.goToCartButton();
-		CaptureScreen("Snap6A1");
+		CaptureScreen("AdddedItem1");
 		
 		itc.hamburgericon();
 		itc.appliances();
@@ -46,7 +46,7 @@ public class TC06_AddingItemToCart extends ProjectSpecifications {
 		itc.addToCartButton1();
 		itc.goToCartButton1();
 		itc.closeicon();
-		CaptureScreen("Snap6A2");
+		CaptureScreen("AddedItem2");
 		
 		
 		itc.hamburgericon();
@@ -57,7 +57,7 @@ public class TC06_AddingItemToCart extends ProjectSpecifications {
 		itc.product3();
 		itc.addToCartButton2();
 		itc.goToCartButton2();
-		CaptureScreen("Snap6A3");	
+		CaptureScreen("AdddedItem3");	
 		
 		
 	}
